@@ -1,6 +1,6 @@
 # FinalProject-mftp
 
-Fina; project for 360 to create a client server program that allows clients to look at, get and put files onto a server directory.
+Fina; project for CS360 Systems Programming to create a client server program in C that allows clients to look at, get and put files onto a server directory.
 
 Initial comments:
 
